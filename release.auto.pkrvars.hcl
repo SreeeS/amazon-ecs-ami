@@ -1,4 +1,4 @@
-ami_version                   = "20250715"
+ami_version                   = "20250718"
 ecs_agent_version             = "1.1.1"
 ecs_init_rev                  = "1"
 docker_version                = "20.11.32"
@@ -12,4 +12,4 @@ source_ami_al2023             = "al2023-ami-minimal-2023.8.20250707.0-kernel-6.1
 source_ami_al2023arm          = "al2023-ami-minimal-2023.8.20250707.0-kernel-6.1-arm64"
 kernel_version_al2023         = "-kernel-6.1"
 kernel_version_al2023arm      = "-kernel-6.1"
-distribution_release_al2023   = "2023.8.20250707"
+distribution_release_al2023   = "2023.8.20250715"
